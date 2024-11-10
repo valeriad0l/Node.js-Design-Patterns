@@ -29,7 +29,7 @@ Implements a logging component using the Strategy pattern, allowing log messages
 **Question 5: Logging with Template**  
 Implements the same logging component as Question 4 but uses the Template pattern instead, with a `ConsoleLogger` and `FileLogger`.  
 
-**Technologies Used:**  
+**Tech Used:**  
 - Node.js  
 - Express  
 - EJS  
