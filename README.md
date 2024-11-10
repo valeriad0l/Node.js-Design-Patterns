@@ -1,4 +1,4 @@
-# Web-Based Enterprise Application Design A2 ♪
+# Web-Based Enterprise Application Design A2 🎼
 
 ## Description:
 This assignment requires implementations of various design patterns in Node.js, based on exercises from the book *Node.js Design Patterns* and *Patterns of Enterprise Application Architecture* by Martin Fowler. Each question demonstrates a specific design pattern or coding technique in Node.js, organized into separate directories.
