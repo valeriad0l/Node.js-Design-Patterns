@@ -1,4 +1,4 @@
-# Web-Based Enterprise Application Design A2 🎵
+# Web-Based Enterprise Application Design A2 ♪
 
 ## Description:
 This assignment requires implementations of various design patterns in Node.js, based on exercises from the book *Node.js Design Patterns* and *Patterns of Enterprise Application Architecture* by Martin Fowler. Each question demonstrates a specific design pattern or coding technique in Node.js, organized into separate directories.
@@ -7,15 +7,11 @@ This assignment requires implementations of various design patterns in Node.js, 
 
 ```plaintext
 Node.js Design Patterns/
-├── .gitignore                # Git ignore file
 ├── question1/                # Web presentation patterns (MVC) implementation
 ├── question2/                # Console color factory
 ├── question3/                # Timestamped logs using Proxy
 ├── question4/                # Logging with Strategy pattern
 ├── question5/                # Logging with Template pattern
-├── package.json              # Node.js dependencies and scripts
-├── package-lock.json         # Lock file for exact dependency versions
-└── README.md                 # Project documentation
 ``` 
 
 **Question 1: Web Presentation Patterns (MVC)**  
