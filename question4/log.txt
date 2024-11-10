@@ -1,0 +1,8 @@
+[INFO] Logging to a file
+[WARN] This is a file warning!
+[ERROR] File error occurred
+[DEBUG] Debug message now logged to the file
+[INFO] Logging to a file
+[WARN] This is a file warning!
+[ERROR] File error occurred
+[DEBUG] Debug message now logged to the file

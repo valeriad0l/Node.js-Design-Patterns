@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist & Album Information</title>
+    <link rel="stylesheet" href="/artist_album.css">
+</head>
+<body>
+<h1>Artist & Album Information</h1>
+
+<div class="container">
+    <% if (artist) { %>
+    <div class="artist-info">
+        <h2>Artist Info</h2>
+        <h3><%= artist.name %></h3>
+        <p>Genre: <%= artist.genre %></p>
+    </div>
+    <% } %>
+
+    <% if (albums && albums.length > 0) { %>
+    <div class="album-info">
+        <h2>Album Info</h2>
+        <% albums.forEach(album => { %>
+        <div class="album-item">
+            <h3>Album: <%= album.title %></h3>
+            <p>Genre: <%= album.genre %></p>
+            <p>Release Year: <%= album.year %></p>
+            <p>Artist: <%= artist.name %></p>
+        </div>
+        <% }) %>
+    </div>
+    <% } %>
+</div>
+
+<% if (!artist && albums.length === 0) { %>
+<p>No artist or album information found.</p>
+<% } %>
+</body>
+</html>
+

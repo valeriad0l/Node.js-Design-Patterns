@@ -1,0 +1,6 @@
+[INFO] The following is an info message to the file
+[ERROR] The following is an error message to the file
+[INFO] Info message to the file
+[WARN] Warning message to the file
+[ERROR] Error message to the file
+[DEBUG] Debug message to the file
