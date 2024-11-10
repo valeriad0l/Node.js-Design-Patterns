@@ -1,8 +1,9 @@
-# Node.js Design Patterns
+# Web-Based Enterprise Application Design A2 🎵
 
-This repository contains implementations of various design patterns in Node.js, based on exercises from the book *Node.js Design Patterns* and *Patterns of Enterprise Application Architecture* by Martin Fowler. Each question demonstrates a specific design pattern or coding technique in Node.js, organized into separate directories.
+## Description:
+This assignment requires implementations of various design patterns in Node.js, based on exercises from the book *Node.js Design Patterns* and *Patterns of Enterprise Application Architecture* by Martin Fowler. Each question demonstrates a specific design pattern or coding technique in Node.js, organized into separate directories.
 
-## Table of Contents
+### Table of Contents
 
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
@@ -12,7 +13,7 @@ This repository contains implementations of various design patterns in Node.js, 
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
-## Project Structure
+#### Project Structure
 
 ```plaintext
 Node.js Design Patterns/
